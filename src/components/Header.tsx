@@ -6,12 +6,12 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const navigation = [
-    { name: 'Início', href: '#' },
-    { name: 'Serviços', href: '#services' },
-    { name: 'Produtos', href: '#products' },
-    { name: 'Portfólio', href: '#portfolio' },
+    { name: 'Início', href: '/' },
+    { name: 'Serviços', href: '/#services' },
+    { name: 'Produtos', href: '/#products' },
+    { name: 'Portfólio', href: '/#portfolio' },
     { name: 'Sobre', href: '/sobre' },
-    { name: 'Contacto', href: '#contact' },
+    { name: 'Contacto', href: '/#contact' },
   ];
 
   return (
