@@ -82,7 +82,7 @@ const ServicesSection = () => {
             return (
               <div 
                 key={service.title}
-                className="service-card animate-fade-in"
+                className="service-card group animate-fade-in"
                 style={{
                   animationDelay: `${index * 0.1}s`,
                   animationFillMode: 'both'

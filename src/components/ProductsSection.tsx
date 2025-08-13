@@ -110,7 +110,7 @@ const ProductsSection = () => {
             return (
               <div 
                 key={product.title}
-                className="service-card h-full animate-fade-in"
+                className="service-card group h-full animate-fade-in"
                 style={{
                   animationDelay: `${index * 0.1}s`,
                   animationFillMode: 'both'

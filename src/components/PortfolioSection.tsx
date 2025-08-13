@@ -118,7 +118,7 @@ const PortfolioSection = () => {
           {filteredProjects.map((project, index) => (
             <div 
               key={project.id}
-              className="portfolio-card bg-card border border-border animate-fade-in"
+              className="portfolio-card group bg-card border border-border animate-fade-in"
               style={{
                 animationDelay: `${index * 0.1}s`,
                 animationFillMode: 'both'

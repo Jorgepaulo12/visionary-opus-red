@@ -158,14 +158,14 @@ Cores principais: Vermelho elegante e Preto sofisticado
     @apply bg-card border border-border rounded-xl p-6 
            shadow-card hover:shadow-elegant
            transition-all duration-300 hover:scale-105
-           hover:border-primary/20 group;
+           hover:border-primary/20;
   }
   
   /* Portfolio Cards */
   .portfolio-card {
     @apply relative overflow-hidden rounded-xl shadow-card
            hover:shadow-elegant transition-all duration-500
-           hover:scale-105 group cursor-pointer;
+           hover:scale-105 cursor-pointer;
   }
   
   /* Custom Animations */
