@@ -1,4 +1,6 @@
 import { Helmet } from "react-helmet-async";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 const Sobre = () => {
   const canonical = typeof window !== "undefined" ? `${window.location.origin}/sobre` : "/sobre";
@@ -10,6 +12,8 @@ const Sobre = () => {
         <meta name="description" content="Conheça a MultiServ: fiscalização de obras, TI, consultoria, aluguer e comércio especializado. Soluções completas para empresas." />
         <link rel="canonical" href={canonical} />
       </Helmet>
+
+      <Header />
 
       <header className="pt-28 pb-12 bg-gradient-to-b from-background to-muted/30 border-b border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -74,6 +78,7 @@ const Sobre = () => {
           </aside>
         </section>
       </main>
+      <Footer />
     </>
   );
 };
