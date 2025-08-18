@@ -43,7 +43,7 @@ const Footer = () => {
             {/* Company Info */}
             <div className="lg:col-span-2">
               <h3 className="text-3xl font-bold text-gradient mb-4">
-                MultiServ
+                Engenharia e Consultoria Ntimbuca
               </h3>
               <p className="text-secondary-foreground/80 mb-6 leading-relaxed">
                 Transformamos visões em realidade através de serviços e produtos 
@@ -55,15 +55,15 @@ const Footer = () => {
               <div className="space-y-3">
                 <div className="flex items-center">
                   <Phone className="h-5 w-5 text-primary mr-3" />
-                  <span>+351 123 456 789</span>
+                  <span>+258 82 123 4567</span>
                 </div>
                 <div className="flex items-center">
                   <Mail className="h-5 w-5 text-primary mr-3" />
-                  <span>info@multiserv.pt</span>
+                  <span>info@ntimbuca.co.mz</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-5 w-5 text-primary mr-3" />
-                  <span>Rua Principal, 123, Lisboa</span>
+                  <span>Rua Principal, 123, Lichinga, Niassa, Moçambique</span>
                 </div>
                 <div className="flex items-center">
                   <Clock className="h-5 w-5 text-primary mr-3" />
@@ -123,7 +123,7 @@ const Footer = () => {
         <div className="py-6 border-t border-secondary-light">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-secondary-foreground/60 text-sm mb-4 md:mb-0">
-              © 2024 MultiServ. Todos os direitos reservados.
+              © 2024 Engenharia e Consultoria Ntimbuca. Todos os direitos reservados.
             </div>
             
             {/* Social Links */}

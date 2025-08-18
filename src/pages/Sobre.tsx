@@ -8,8 +8,8 @@ const Sobre = () => {
   return (
     <>
       <Helmet>
-        <title>Sobre a MultiServ | Soluções Empresariais</title>
-        <meta name="description" content="Conheça a MultiServ: fiscalização de obras, TI, consultoria, aluguer e comércio especializado. Soluções completas para empresas." />
+        <title>Sobre a Engenharia e Consultoria Ntimbuca | Soluções Empresariais</title>
+        <meta name="description" content="Conheça a Engenharia e Consultoria Ntimbuca: fiscalização de obras, TI, consultoria, aluguer e comércio especializado. Soluções completas para empresas." />
         <link rel="canonical" href={canonical} />
       </Helmet>
 
@@ -17,7 +17,7 @@ const Sobre = () => {
 
       <header className="pt-28 pb-12 bg-gradient-to-b from-background to-muted/30 border-b border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-gradient">Sobre a MultiServ</h1>
+          <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-gradient">Sobre a Engenharia e Consultoria Ntimbuca</h1>
           <p className="mt-4 text-muted-foreground max-w-2xl">
             Empresa multidisciplinar que presta serviços e fornece bens para impulsionar negócios com eficiência, tecnologia e confiança.
           </p>
@@ -29,7 +29,7 @@ const Sobre = () => {
           <article className="lg:col-span-2 space-y-6">
             <h2 className="text-2xl font-bold">Quem somos</h2>
             <p className="text-muted-foreground">
-              A MultiServ integra equipas especializadas em fiscalização de obras públicas, consultoria e programação informática,
+              A Engenharia e Consultoria Ntimbuca integra equipas especializadas em fiscalização de obras públicas, consultoria e programação informática,
               gestão de equipamentos e operações administrativas, oferecendo soluções ponta-a-ponta para organizações de qualquer dimensão.
             </p>
 

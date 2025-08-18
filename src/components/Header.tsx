@@ -20,8 +20,9 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="text-2xl font-bold text-gradient">
-              MultiServ
+            <h1 className="text-xl md:text-2xl font-bold text-gradient">
+              <span className="md:hidden">EC Ntimbuca</span>
+              <span className="hidden md:inline">Engenharia e Consultoria Ntimbuca</span>
             </h1>
           </div>
 
@@ -42,11 +43,11 @@ const Header = () => {
           <div className="hidden lg:flex items-center space-x-4">
             <div className="flex items-center space-x-2 text-sm text-muted-foreground">
               <Phone className="h-4 w-4" />
-              <span>+351 123 456 789</span>
+              <span>+258 82 123 4567</span>
             </div>
             <div className="flex items-center space-x-2 text-sm text-muted-foreground">
               <Mail className="h-4 w-4" />
-              <span>info@multiserv.pt</span>
+              <span>info@ntimbuca.co.mz</span>
             </div>
             <Button className="btn-hero ml-4">
               Contacte-nos

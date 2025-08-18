@@ -66,8 +66,8 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-1">Telefone</h4>
-                    <p className="text-muted-foreground">+351 123 456 789</p>
-                    <p className="text-muted-foreground">+351 987 654 321</p>
+                    <p className="text-muted-foreground">+258 82 123 4567</p>
+                    <p className="text-muted-foreground">+258 86 987 6543</p>
                   </div>
                 </div>
 
@@ -77,8 +77,8 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-1">Email</h4>
-                    <p className="text-muted-foreground">info@multiserv.pt</p>
-                    <p className="text-muted-foreground">vendas@multiserv.pt</p>
+                    <p className="text-muted-foreground">info@ntimbuca.co.mz</p>
+                    <p className="text-muted-foreground">vendas@ntimbuca.co.mz</p>
                   </div>
                 </div>
 
@@ -90,7 +90,7 @@ const ContactSection = () => {
                     <h4 className="font-semibold mb-1">Localização</h4>
                     <p className="text-muted-foreground">
                       Rua Principal, 123<br />
-                      1000-000 Lisboa, Portugal
+                      Lichinga, Niassa, Moçambique
                     </p>
                   </div>
                 </div>
@@ -116,7 +116,7 @@ const ContactSection = () => {
                 <p className="text-sm text-muted-foreground">
                   Para situações urgentes fora do horário comercial
                 </p>
-                <p className="font-semibold text-primary">+351 900 000 000</p>
+                <p className="font-semibold text-primary">+258 84 900 0000</p>
               </div>
             </div>
           </div>
@@ -246,7 +246,7 @@ const ContactSection = () => {
                   Mapa interativo será carregado aqui
                 </p>
                 <p className="text-sm text-muted-foreground mt-2">
-                  Rua Principal, 123, Lisboa
+                  Rua Principal, 123, Lichinga, Niassa, Moçambique
                 </p>
               </div>
             </div>

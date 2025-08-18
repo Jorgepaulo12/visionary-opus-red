@@ -14,9 +14,9 @@ const PortfolioSection = () => {
       category: "Fiscalização",
       image: portfolio1,
       description: "Supervisão completa da construção de complexo empresarial com 15.000m²",
-      client: "Grupo Empresarial Lisboa",
+      client: "Grupo Empresarial Lichinga",
       date: "2024",
-      location: "Lisboa",
+      location: "Lichinga, Niassa",
       tags: ["Fiscalização", "Obras Públicas", "Gestão"]
     },
     {
@@ -27,7 +27,7 @@ const PortfolioSection = () => {
       description: "Implementação de sistema de gestão informática para multinacional",
       client: "TechCorp International",
       date: "2024",
-      location: "Porto",
+      location: "Nampula",
       tags: ["IT", "Consultoria", "Sistemas"]
     },
     {
@@ -38,7 +38,7 @@ const PortfolioSection = () => {
       description: "Design e manutenção de espaços verdes em campus empresarial",
       client: "EcoTech Solutions",
       date: "2023",
-      location: "Coimbra",
+      location: "Pemba",
       tags: ["Paisagismo", "Sustentabilidade", "Design"]
     },
     {
@@ -47,9 +47,9 @@ const PortfolioSection = () => {
       category: "Tecnologia",
       image: portfolio2,
       description: "Digitalização e organização de arquivo histórico municipal",
-      client: "Câmara Municipal",
+      client: "Conselho Municipal",
       date: "2023",
-      location: "Braga",
+      location: "Beira",
       tags: ["Digitalização", "Gestão", "Arquivo"]
     },
     {
@@ -71,7 +71,7 @@ const PortfolioSection = () => {
       description: "Criação de espaços verdes com sistema de rega inteligente",
       client: "Green Building SA",
       date: "2024",
-      location: "Aveiro",
+      location: "Chimoio",
       tags: ["Sustentável", "Tecnologia", "Verde"]
     }
   ];

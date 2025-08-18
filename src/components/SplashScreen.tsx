@@ -14,11 +14,11 @@ const SplashScreen: React.FC = () => {
           <div className="absolute inset-0 rounded-full border-4 border-primary/30" />
           <div className="absolute inset-0 rounded-full border-4 border-t-primary animate-spin" />
           <div className="absolute inset-0 grid place-items-center text-lg font-bold text-primary select-none">
-            MS
+            EC
           </div>
         </div>
         <div className="text-center">
-          <div className="text-3xl font-extrabold tracking-tight text-gradient">MultiServ</div>
+          <div className="text-3xl font-extrabold tracking-tight text-gradient">Engenharia e Consultoria Ntimbuca</div>
           <p className="text-sm text-muted-foreground mt-1">A preparar a sua experiência…</p>
         </div>
       </div>
